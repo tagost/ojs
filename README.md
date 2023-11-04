@@ -1,7 +1,6 @@
 # Instalación de OJS 3.4.0 en Openshift (Image Base ubi9/php-81)
 
-Para esta instalación se tomó como guia la documentación [PKP Docs](https://
-docs.pkp.sfu.ca/admin-guide/en/)
+Para esta instalación se tomó como guia la documentación [PKP Docs](https://docs.pkp.sfu.ca/admin-guide/en/)
 
 Objetos de kubernetes
 
