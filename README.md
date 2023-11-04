@@ -5,7 +5,7 @@ docs.pkp.sfu.ca/admin-guide/en/)
 
 Objetos de kubernetes
 
-###BuildConfig
+### BuildConfig
 ```
 kind: BuildConfig
 apiVersion: build.openshift.io/v1
